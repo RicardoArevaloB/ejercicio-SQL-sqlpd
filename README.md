@@ -1,4 +1,4 @@
-# ejercicio-SQL-sqlpd Ricardo Arevalo
+# Ejercicio-SQL-sqlpd Ricardo Arevalo
 
 
 # CASO 01.
